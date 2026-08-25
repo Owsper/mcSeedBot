@@ -1,0 +1,9 @@
+C:/Users/D/Desktop/mcSeedBot/build/CMakeFiles/objects.dir
+C:/Users/D/Desktop/mcSeedBot/build/CMakeFiles/cubiomes.dir
+C:/Users/D/Desktop/mcSeedBot/build/CMakeFiles/cubiomes_static.dir
+C:/Users/D/Desktop/mcSeedBot/build/CMakeFiles/edit_cache.dir
+C:/Users/D/Desktop/mcSeedBot/build/CMakeFiles/rebuild_cache.dir
+C:/Users/D/Desktop/mcSeedBot/build/CMakeFiles/list_install_components.dir
+C:/Users/D/Desktop/mcSeedBot/build/CMakeFiles/install.dir
+C:/Users/D/Desktop/mcSeedBot/build/CMakeFiles/install/local.dir
+C:/Users/D/Desktop/mcSeedBot/build/CMakeFiles/install/strip.dir

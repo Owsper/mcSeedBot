@@ -1,0 +1,80 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-82003db5e9c7a3959006.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cubiomes",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cubiomes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cubiomes-Debug-ee763797c7840b1977ff.json",
+					"name" : "cubiomes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cubiomes_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cubiomes_static-Debug-3f57e12adb4d9b436c17.json",
+					"name" : "cubiomes_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "objects::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-objects-Debug-a2edc5ffa9f622aed5d2.json",
+					"name" : "objects",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/D/Desktop/mcSeedBot/build",
+		"source" : "C:/Users/D/Desktop/mcSeedBot/cubiomes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	}
+}

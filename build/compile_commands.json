@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/Users/D/Desktop/mcSeedBot/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -D_WIN32 -Wall -Wextra -O0 -g3 -DDEBUG -o CMakeFiles\\objects.dir\\finders.c.obj -c C:\\Users\\D\\Desktop\\mcSeedBot\\cubiomes\\finders.c",
+  "file": "C:/Users/D/Desktop/mcSeedBot/cubiomes/finders.c",
+  "output": "C:/Users/D/Desktop/mcSeedBot/build/CMakeFiles/objects.dir/finders.c.obj"
+},
+{
+  "directory": "C:/Users/D/Desktop/mcSeedBot/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -D_WIN32 -Wall -Wextra -O0 -g3 -DDEBUG -o CMakeFiles\\objects.dir\\generator.c.obj -c C:\\Users\\D\\Desktop\\mcSeedBot\\cubiomes\\generator.c",
+  "file": "C:/Users/D/Desktop/mcSeedBot/cubiomes/generator.c",
+  "output": "C:/Users/D/Desktop/mcSeedBot/build/CMakeFiles/objects.dir/generator.c.obj"
+},
+{
+  "directory": "C:/Users/D/Desktop/mcSeedBot/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -D_WIN32 -Wall -Wextra -O0 -g3 -DDEBUG -o CMakeFiles\\objects.dir\\layers.c.obj -c C:\\Users\\D\\Desktop\\mcSeedBot\\cubiomes\\layers.c",
+  "file": "C:/Users/D/Desktop/mcSeedBot/cubiomes/layers.c",
+  "output": "C:/Users/D/Desktop/mcSeedBot/build/CMakeFiles/objects.dir/layers.c.obj"
+},
+{
+  "directory": "C:/Users/D/Desktop/mcSeedBot/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -D_WIN32 -Wall -Wextra -O0 -g3 -DDEBUG -o CMakeFiles\\objects.dir\\biomenoise.c.obj -c C:\\Users\\D\\Desktop\\mcSeedBot\\cubiomes\\biomenoise.c",
+  "file": "C:/Users/D/Desktop/mcSeedBot/cubiomes/biomenoise.c",
+  "output": "C:/Users/D/Desktop/mcSeedBot/build/CMakeFiles/objects.dir/biomenoise.c.obj"
+},
+{
+  "directory": "C:/Users/D/Desktop/mcSeedBot/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -D_WIN32 -Wall -Wextra -O0 -g3 -DDEBUG -o CMakeFiles\\objects.dir\\biomes.c.obj -c C:\\Users\\D\\Desktop\\mcSeedBot\\cubiomes\\biomes.c",
+  "file": "C:/Users/D/Desktop/mcSeedBot/cubiomes/biomes.c",
+  "output": "C:/Users/D/Desktop/mcSeedBot/build/CMakeFiles/objects.dir/biomes.c.obj"
+},
+{
+  "directory": "C:/Users/D/Desktop/mcSeedBot/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -D_WIN32 -Wall -Wextra -O0 -g3 -DDEBUG -o CMakeFiles\\objects.dir\\noise.c.obj -c C:\\Users\\D\\Desktop\\mcSeedBot\\cubiomes\\noise.c",
+  "file": "C:/Users/D/Desktop/mcSeedBot/cubiomes/noise.c",
+  "output": "C:/Users/D/Desktop/mcSeedBot/build/CMakeFiles/objects.dir/noise.c.obj"
+},
+{
+  "directory": "C:/Users/D/Desktop/mcSeedBot/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -D_WIN32 -Wall -Wextra -O0 -g3 -DDEBUG -o CMakeFiles\\objects.dir\\util.c.obj -c C:\\Users\\D\\Desktop\\mcSeedBot\\cubiomes\\util.c",
+  "file": "C:/Users/D/Desktop/mcSeedBot/cubiomes/util.c",
+  "output": "C:/Users/D/Desktop/mcSeedBot/build/CMakeFiles/objects.dir/util.c.obj"
+},
+{
+  "directory": "C:/Users/D/Desktop/mcSeedBot/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -D_WIN32 -Wall -Wextra -O0 -g3 -DDEBUG -o CMakeFiles\\objects.dir\\quadbase.c.obj -c C:\\Users\\D\\Desktop\\mcSeedBot\\cubiomes\\quadbase.c",
+  "file": "C:/Users/D/Desktop/mcSeedBot/cubiomes/quadbase.c",
+  "output": "C:/Users/D/Desktop/mcSeedBot/build/CMakeFiles/objects.dir/quadbase.c.obj"
+}
+]
