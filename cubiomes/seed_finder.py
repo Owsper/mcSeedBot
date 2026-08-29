@@ -78,17 +78,21 @@ def find_structure_in_radius(
 
 def find_seed(
     seed,
-    structures,
+    requirements,
     version="1.21.1",
-    radius=1000,
-):
+    ):
+
     """
     Check one seed against multiple structure requirements.
+
+    requirements should be a dictionary where:
+        key   = structure name
+        value = maximum distance from spawn
     """
 
     matches = {}
 
-    for structure in structures:
+    for structure, radius in requirements.items():
 
         results = find_structure_in_radius(
             seed,
