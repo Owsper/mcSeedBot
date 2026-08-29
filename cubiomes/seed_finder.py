@@ -1,4 +1,4 @@
-from cubiomes import get_structure_position, is_structure_viable
+from .cubiomes import get_structure_position, is_structure_viable
 
 
 def distance(x1, z1, x2, z2):
@@ -15,7 +15,7 @@ def find_structure_in_radius(seed, structure, version="1.21.1", radius=1000):
     structure and Minecraft version.
     """
 
-    from cubiomes import get_structure_region_size
+    from .cubiomes import get_structure_region_size
 
     results = []
 
