@@ -1,5 +1,5 @@
-from seed_finder import find_seed
-from cubiomes import is_structure_supported
+from .seed_finder import find_seed
+from .cubiomes import is_structure_supported
 
 
 def search_seeds(start_seed, end_seed, requirements, version="1.21.1", max_results=None):
